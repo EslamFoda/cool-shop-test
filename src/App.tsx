@@ -43,7 +43,7 @@ function App() {
       );
 
   return (
-    <div className="container p-10">
+    <div className="container max-w-3xl p-10">
       <motion.div
         className="inline-block"
         whileHover={{ scale: 1 }}
